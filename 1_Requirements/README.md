@@ -26,6 +26,7 @@ Vaccination clinic in the area
 Using a local server, participants can register online and have their information verified on the field.
 # High Level Requirements
 |**ID**|**DescriptionStatus**|**(Implemented/Future)**|
+|---|----|----|------|
 |HR01|  System should be able to access pre loaded registration data for verification|Implemented
 |HR02|	User should be able to add new registrations|	Implemented
 |HR03|	System should recognize vaccinated patients|	Implemented
@@ -34,6 +35,7 @@ Using a local server, participants can register online and have their informatio
 |HR06|	System should be updated with the time interval between two doses|	Future
 # Low Level Requirement
 |**ID**|**DescriptionStatus**|**(Implemented/Future)**|
+|--|-----|---|---|
 |LR01|	Only new user must be given an option to select vaccine type|	Implemented
 |LR02|	Total quantity of vaccines used must be shown by EOD|	Implemented
 |LR03|	Full list of patients vaccinated must be set as output|	Implemented
