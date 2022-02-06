@@ -11,17 +11,18 @@ Due to local server limits, we are unable to add a significant number of new reg
 To secure the data, encryption is disabled.
 For new registrations, OTP verification is disabled.
 # SWOT Analysis
+![SWOT](https://user-images.githubusercontent.com/98832333/152694026-3d54d433-03d2-49cb-bda2-fe58af0524af.png)
 
 # 4 W's and 1 H
-WHO
+# WHO
 Patient who needs to be vaccinated.
-WHAT
+# WHAT
 Verify the details of the patient using the alloted data.
-WHEN
+# WHEN
 Vaccination will take place during the period allotted
-WHERE
+# WHERE
 Vaccination clinic in the area
-HOW
+# HOW
 Using a local server, participants can register online and have their information verified on the field.
 # High Level Requirements
 |**ID**|**DescriptionStatus**|**(Implemented/Future)**|
