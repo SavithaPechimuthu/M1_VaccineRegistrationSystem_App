@@ -25,19 +25,37 @@ Vaccination clinic in the area
 # HOW
 Using a local server, participants can register online and have their information verified on the field.
 # High Level Requirements
-|**ID**|**DescriptionStatus**|**(Implemented/Future)**|
-|---|----|----|------|
-|HR01|  System should be able to access pre loaded registration data for verification|Implemented
-|HR02|	User should be able to add new registrations|	Implemented
-|HR03|	System should recognize vaccinated patients|	Implemented
-|HR04|	OTP generated verification for secure registration|	Future
-|HR05|	System should recognize invalid credentials|	Future
-|HR06|	System should be updated with the time interval between two doses|	Future
+ 1. ID:HR01
+ DescriptionStatus:System should be able to access pre loaded registration data for verification
+ (Implemented/Future):Implemented
+ 2.ID:HR02	
+DescriptionStatus:User should be able to add new registrations	
+(Implemented/Future):Implemented
+3.ID:HR03	 
+DescriptionStatus:System should recognize vaccinated patients	
+(Implemented/Future):Implemented
+4.ID:HR04	
+DescriptionStatus:OTP generated verification for secure registration	
+(Implemented/Future):Future
+5.ID:HR05	
+DescriptionStatus:System should recognize invalid credentials 	
+(Implemented/Future):Future
+6.ID:HR06	
+DescriptionStatus:System should be updated with the time interval between two dose	
+(Implemented/Future):Future
 # Low Level Requirement
-|**ID**|**DescriptionStatus**|**(Implemented/Future)**|
-|--|-----|---|---|
-|LR01|	Only new user must be given an option to select vaccine type|	Implemented
-|LR02|	Total quantity of vaccines used must be shown by EOD|	Implemented
-|LR03|	Full list of patients vaccinated must be set as output|	Implemented
-|LR04|	Remaining and present stock of vaccines must be tracked|	Future
-|LR05|	Vaccine vials must be tracked for its use within a day	Future|**
+1.ID:LR01	
+DescriptionStatus:Only new user must be given an option to select vaccine type	
+(Implemented/Future):Implemented
+2.ID:LR02	
+DescriptionStatus:Total quantity of vaccines used must be shown by EOD	
+(Implemented/Future):Implemented
+3.ID:LR03	
+DescriptionStatus:Full list of  patients vaccinated must be set as output	
+(Implemented/Future):Implemented
+4.ID:LR04	
+DescriptionStatus:Remaining and present stock of vaccines must be tracked	
+(Implemented/Future):Future
+5.ID:LR05	
+DescriptionStatus:Vaccine vials must be tracked for its use within a day	
+(Implemented/Future):Future
