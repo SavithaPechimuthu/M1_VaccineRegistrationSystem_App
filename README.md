@@ -1,1 +1,1 @@
-# M1_Vaccine-Registration-System_APP
+# M1_VaccineRegistrationSystem_App
