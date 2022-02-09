@@ -11,7 +11,8 @@ Where the assigned online registration data will be placed onto the local server
 2. To secure the data, encryption is disabled.
 3. For new registrations, OTP verification is disabled.
 ## SWOT Analysis
-![SWOT](https://user-images.githubusercontent.com/98832333/152694026-3d54d433-03d2-49cb-bda2-fe58af0524af.png)
+
+
 
 ## 4 W's and 1 H
 ## WHO
