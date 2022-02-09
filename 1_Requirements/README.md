@@ -35,8 +35,8 @@ Using a local server, participants can register online and have their informatio
 ## Low Level Requirement
  | ID | Depiction Status | Upheld/Future |
  | -- | ---------------- | ------------- |
- | HR01 | Only new users should be offered the option of choosing a vaccination type | Upheld |
- | HR02 | EOD must show the total number of vaccinations used | Upheld |
- | HR03 | The entire list of patients who have been vaccinated must be placed as output | Upheld |
- | HR04 | The remaining and current vaccination stock must be tracked | Future |
- | HR05 | Within a day, vaccination vials must be traced for use | Future |
+ | LR01 | Only new users should be offered the option of choosing a vaccination type | Upheld |
+ | LR02 | EOD must show the total number of vaccinations used | Upheld |
+ | LR03 | The entire list of patients who have been vaccinated must be placed as output | Upheld |
+ | LR04 | The remaining and current vaccination stock must be tracked | Future |
+ | LR05 | Within a day, vaccination vials must be traced for use | Future |
