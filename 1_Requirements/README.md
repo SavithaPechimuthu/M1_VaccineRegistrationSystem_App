@@ -25,24 +25,14 @@ Vaccination clinic in the area
 # HOW
 Using a local server, participants can register online and have their information verified on the field.
 # High Level Requirements
- # 1. ID:HR01
- DescriptionStatus:System should be able to access pre loaded registration data for verification
- (Implemented/Future):Implemented
-# 2.ID:HR02	
-DescriptionStatus:User should be able to add new registrations	
-(Implemented/Future):Implemented
-# 3.ID:HR03	 
-DescriptionStatus:System should recognize vaccinated patients	
-(Implemented/Future):Implemented
-# 4.ID:HR04	
-DescriptionStatus:OTP generated verification for secure registration	
-(Implemented/Future):Future
-# 5.ID:HR05	
-DescriptionStatus:System should recognize invalid credentials 	
-(Implemented/Future):Future
-# 6.ID:HR06	
-DescriptionStatus:System should be updated with the time interval between two dose	
-(Implemented/Future):Future
+ | ID | Description Status | Implemented/Future |
+ |----| ------------------ | ------------------ |
+ | HR01 | For verification, the system should be able to access pre-loaded registration data | Implemented |
+ | HR02 | New registrations should be able to be added by the user | Implemented |
+ | HR03 | Patients who have been vaccinated should be recognised by the system | Implemented |
+ | HR04 | For secure registrations, an OTP is produced | Future |
+ | HR05 | Invalid credentials should be recognised by the system | Future |
+ | HR06 | The time gap between two doses should be updated in the system | Future |
 # Low Level Requirement
 # 1.ID:LR01	
 DescriptionStatus:Only new user must be given an option to select vaccine type	
