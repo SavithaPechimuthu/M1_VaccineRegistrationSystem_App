@@ -11,9 +11,7 @@ Where the assigned online registration data will be placed onto the local server
 2. To secure the data, encryption is disabled.
 3. For new registrations, OTP verification is disabled.
 ## SWOT Analysis
-
-
-
+![SWOT](https://user-images.githubusercontent.com/98832333/153143222-696de255-7095-4de6-8142-1a5f7fdbcdc2.png)
 ## 4 W's and 1 H
 ## WHO
 Patient who needs to be vaccinated.
