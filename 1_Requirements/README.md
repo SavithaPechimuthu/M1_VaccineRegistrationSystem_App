@@ -10,10 +10,10 @@ Where the assigned online registration data will be placed onto the local server
 1. Due to local server limits, we are unable to add a significant number of new registrants.
 2. To secure the data, encryption is disabled.
 3. For new registrations, OTP verification is disabled.
-# SWOT Analysis
+## SWOT Analysis
 ![SWOT](https://user-images.githubusercontent.com/98832333/152694026-3d54d433-03d2-49cb-bda2-fe58af0524af.png)
 
-# 4 W's and 1 H
+## 4 W's and 1 H
 ## WHO
 Patient who needs to be vaccinated.
 ## WHAT
@@ -24,7 +24,7 @@ Vaccination will take place during the period allotted
 Vaccination clinic in the area
 ## HOW
 Using a local server, participants can register online and have their information verified on the field.
-# High Level Requirements
+## High Level Requirements
  | ID | Depiction Status | Upheld/Future |
  |----| ------------------ | ------------------ |
  | HR01 | For verification, the system should be able to access pre-loaded registration data | Upheld |
@@ -33,7 +33,7 @@ Using a local server, participants can register online and have their informatio
  | HR04 | For secure registrations, an OTP is produced | Future |
  | HR05 | Invalid credentials should be recognised by the system | Future |
  | HR06 | The time gap between two doses should be updated in the system | Future |
-# Low Level Requirement
+## Low Level Requirement
  | ID | Depiction Status | Upheld/Future |
  | -- | ---------------- | ------------- |
  | HR01 | Only new users should be offered the option of choosing a vaccination type | Upheld |
