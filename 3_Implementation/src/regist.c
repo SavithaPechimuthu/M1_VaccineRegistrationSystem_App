@@ -1,3 +1,13 @@
+/**
+ * @file regist.c
+ * @author savitha
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-12
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 #include "regist.h"
 
