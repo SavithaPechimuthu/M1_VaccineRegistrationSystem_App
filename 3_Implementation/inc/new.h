@@ -1,5 +1,5 @@
 /**
- * @file regist.h
+ * @file new.h
  * @author Savitha
  * @brief 
  * @version 0.1
@@ -8,14 +8,14 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#ifndef REGIST_C
-#define REGIST_C
+#ifndef NEW_C
+#define NEW_C
 
  // Checks for registration details of new patients
 int regist_status(long pd );
 
 // Checks details from the pre registered patients
-int existregist();
+int reg();
 
 // Checks how many doses should be given
 int vaccine_status(int );

@@ -1,5 +1,5 @@
 /**
- * @file existreg.c
+ * @file reg.c
  * @author Savitha
  * @brief 
  * @version 0.1
@@ -9,11 +9,11 @@
  * 
  */
 #include"stdio.h"
-#include "regist.h"
+#include "new.h"
 
 // Patients already registered list is given as input for verification
 // pd stands for patient details
-int existregist(){
+int reg(){
     pd[1].age=123;
     pd[1].aadhar=123;
     pd[1].mobile_number=123;

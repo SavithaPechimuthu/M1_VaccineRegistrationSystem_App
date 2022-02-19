@@ -9,7 +9,7 @@
  * 
  */
 #include "stdio.h"
-#include "regist.h"
+#include "new.h"
 
 
 // Program begins from this section
@@ -19,7 +19,7 @@ int main(){
     long A;             // Variable that stores patient's aadhar number
     int d1=0,d2=0;      //Vaccine type 1 and 2 quantity
     
-    existregist();
+    reg();
     
     int attmpt=1000;    // Variable that determines the total number of execution required by EOD
     while(attmpt>0){
@@ -41,7 +41,7 @@ int main(){
     }
     
     if(stat==-1){
-        existregist();
+        reg();
         i=1;
         while(i<=1000){
             if(pd[i].aadhar==0){

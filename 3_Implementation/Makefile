@@ -1,10 +1,10 @@
-PROJ_NAME = Vaccine_Registration
-SRC = Project_main.c\
-src/existreg.c\
-src/regist.c
-TEST_SRC = src/regist.c\
-src/existreg.c\
-test/test_regist.c\
+PROJ_NAME = VaccineRegistrationSystem
+SRC = main.c\
+src/reg.c\
+src/new.c
+TEST_SRC = src/new.c\
+src/reg.c\
+test/test_reg.c\
 unity/unity.c 
   
 

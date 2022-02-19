@@ -1,5 +1,5 @@
 /**
- * @file regist.c
+ * @file new.c
  * @author savitha
  * @brief 
  * @version 0.1
@@ -9,7 +9,7 @@
  * 
  */
 #include <stdio.h>
-#include "regist.h"
+#include "new.h"
 
 int regist_status(long p){
 

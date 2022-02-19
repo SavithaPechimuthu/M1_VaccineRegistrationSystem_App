@@ -1,5 +1,5 @@
 /**
- * @file test_regist.c
+ * @file test_reg.c
  * @author Savitha
  * @brief 
  * @version 0.1
@@ -9,12 +9,12 @@
  * 
  */
 #include "unity.h"
-#include "regist.h"
+#include "new.h"
 
-#define PROJECT_NAME    "Vaccine_Registration"
+#define PROJECT_NAME    "VaccineRegistrationSystem"
 
 // Prototypes 
-void test_regist_status(void);
+void test_reg_status(void);
 void test_vaccine_status(void);
 
 void setUp(){}
@@ -26,17 +26,17 @@ int main()
   UNITY_BEGIN();
 
 // Run Test functions for registration and vaccine status
-  RUN_TEST(test_regist_status);
+  RUN_TEST(test_reg_status);
   RUN_TEST(test_vaccine_status);
   
   return UNITY_END();
 }
 
 // Test functions
-void test_regist_status(void) {
-  TEST_ASSERT_EQUAL(-1, regist_status(123));
+void test_reg_status(void) {
+  TEST_ASSERT_EQUAL(-1, reg_status(123));
   
-  TEST_ASSERT_EQUAL(-1, regist_status(150)); // Fail condition
+  TEST_ASSERT_EQUAL(-1, reg_status(150)); // Fail condition
 }
 
 void test_vaccine_status(void) {
