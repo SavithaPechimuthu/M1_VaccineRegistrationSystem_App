@@ -19,7 +19,7 @@ int main(){
     long A;             // Variable that stores patient's aadhar number
     int d1=0,d2=0;      //Vaccine type 1 and 2 quantity
     
-    existregister();
+    existregist();
     
     int attmpt=1000;    // Variable that determines the total number of execution required by EOD
     while(attmpt>0){
@@ -30,7 +30,7 @@ int main(){
     scanf("%li",&A);
    
     
-    stat = register_status(A);
+    stat = regist_status(A);
     int i,j=0,dstat=0,choice=0,pno;
     
     i=1;
