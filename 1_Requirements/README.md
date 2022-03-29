@@ -39,4 +39,4 @@ Using a local server, participants can register online and have their informatio
  | LR02 | EOD must show the total number of vaccinations used | Upheld |
  | LR03 | The entire list of patients who have been vaccinated must be placed as output | Upheld |
  | LR04 | The remaining and current vaccination stock must be tracked | Future |
- | LR05 | Within a day, vaccination vials must be traced for use | Future |
+ | LR05 | Within a day, vaccination vials must be traced for use | Future |.
